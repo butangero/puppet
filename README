@@ -4,3 +4,6 @@ The SANS Institute uses, but does not endorse Puppet or git.
 
 http://www.sans.org/
 Contact: noc@sans.org
+
+
+*note - travis pulled this specifically to use the puppet/users module stuff for developing a good way to manage virtual users.
